@@ -3,11 +3,11 @@ by **Ananya Singh, Devika Mittal, Manas Gupta and Prashasti Agarwal** <br>
 **Machine Learning (CSE343, ECE343)** at **Indraprastha Institute of Information Technology, Delhi**. 
 
 ## Introduction 
-The aim of our project was to predict revenue of a movieand study how different parameters like genre, title, description  keywords,  run-time,  etc,  affect  its  success.   Throughseveral machine learning techniques, we have tried to verifyour preconceived notions about various factors which mightbe important in determining revenue. We have tried severalhyperparameter tuned models to finally reach the one thatbest models our data in predicting revenues.
+The aim of our project was to predict revenue of a movieand study how different parameters like genre, title, description  keywords,  run-time,  etc,  affect  its  success. Through several machine learning techniques, we have tried to verifyour preconceived notions about various factors which mightbe important in determining revenue. We have tried severalhyperparameter tuned models to finally reach the one thatbest models our data in predicting revenues.
 
 ## Description and Implementation Details
-We used Kaggle’s [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset) for our analysis.This is a labelled dataset containing entries of about 45,000movies listed at IMDB. We have used the following 3 of the7 files in the dataset for our analysis:
-- moviesmetadata:  contains 45,466 entries each contain-ing  24  features  namely: adult,  belongstocollection,budget,genres,homepage,id,imdbid, originallanguage, originaltitle, overview,popularity, posterpath, productioncompanies, productioncountries,releasedate,revenue,runtime,spokenlanguages, status, tagline, title, video, voteaverage,votecount
+We used Kaggle’s [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset) for our analysis.This is a labelled dataset containing entries of about 45,000 movies listed at IMDB. We have used the following 3 of the 7 files in the dataset for our analysis:
+- moviesmetadata:  contains 45,466 entries each containing  24  features  namely: adult,  belongstocollection, budget, genres, homepage, id, imdbid, originallanguage, originaltitle, overview, popularity, posterpath, productioncompanies, productioncountries,releasedate,revenue,runtime,spokenlanguages, status, tagline, title, video, voteaverage,votecount
 - keywords: contains movie IDs and the keywords used todescribe their plot.
 - credits: contains movie IDs with the cast as well as crew involved in the movie
 
@@ -27,4 +27,10 @@ Manas Gupta (manas19308@iiitd.ac.in) </br>
 Prashasti Agarwal (prashasti19075@iiitd.ac.in) </br>
 
 ## Final Report 
-https://docs.google.com/viewer?url=${https://github.com/Manas2030/Analyzing-movie-features-in-generating-revenue/blob/main/ML_Group_24_Final_Report.pdf}
+![Page 1](https://github.com/Manas2030/Analyzing-movie-features-in-generating-revenue/blob/main/ML_Group_24_Final_Report/ML_Group_24_Final_Report_1.png)
+![Page 2](https://github.com/Manas2030/Analyzing-movie-features-in-generating-revenue/blob/main/ML_Group_24_Final_Report/ML_Group_24_Final_Report_2.png)
+![Page 3](https://github.com/Manas2030/Analyzing-movie-features-in-generating-revenue/blob/main/ML_Group_24_Final_Report/ML_Group_24_Final_Report_3.png)
+![Page 4](https://github.com/Manas2030/Analyzing-movie-features-in-generating-revenue/blob/main/ML_Group_24_Final_Report/ML_Group_24_Final_Report_4.png)
+![Page 5](https://github.com/Manas2030/Analyzing-movie-features-in-generating-revenue/blob/main/ML_Group_24_Final_Report/ML_Group_24_Final_Report_5.png)
+![Page 6](https://github.com/Manas2030/Analyzing-movie-features-in-generating-revenue/blob/main/ML_Group_24_Final_Report/ML_Group_24_Final_Report_6.png)
+
