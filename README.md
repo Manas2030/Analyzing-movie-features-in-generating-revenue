@@ -1,7 +1,3 @@
-[![Plugin Version](https://img.shields.io/wordpress/plugin/v/dirtysuds-embed-pdf.svg)](https://wordpress.org/plugins/dirtysuds-embed-pdf/)
-[![License](https://img.shields.io/badge/license-GPLv2-blue.svg)](https://wordpress.org/about/license/)
-[![Tested Version](https://img.shields.io/wordpress/v/dirtysuds-embed-pdf.svg)](https://wordpress.org/plugins/dirtysuds-embed-pdf/)
-
 # Analyzing-movie-features-in-generating-revenue
 by **Ananya Singh, Devika Mittal, Manas Gupta and Prashasti Agarwal** <br>
 **Machine Learning (CSE343, ECE343)** at **Indraprastha Institute of Information Technology, Delhi**. 
@@ -31,4 +27,4 @@ Manas Gupta (manas19308@iiitd.ac.in) </br>
 Prashasti Agarwal (prashasti19075@iiitd.ac.in) </br>
 
 ## Final Report 
-[embed] https://github.com/Manas2030/Analyzing-movie-features-in-generating-revenue/blob/main/ML_Group_24_Final_Report.pdf [/embed]
+https://docs.google.com/viewer?url=${https://github.com/Manas2030/Analyzing-movie-features-in-generating-revenue/blob/main/ML_Group_24_Final_Report.pdf}
