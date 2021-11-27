@@ -1,5 +1,5 @@
 # Analyzing-movie-features-in-generating-revenue
-by **Ananya Singh, Devika Mittal, Manas Gupta and Prashasti Agarwal**
+by **Ananya Singh, Devika Mittal, Manas Gupta and Prashasti Agarwal** <br>
 **Machine Learning (CSE343, ECE343)** at **Indraprastha Institute of Information Technology, Delhi**. 
 
 ## Introduction 
