@@ -13,15 +13,15 @@ We used Kaggle’s [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-m
 
 
 ## Running the models
-Download the entire repository and extract all the files to a folder. 
+Download the entire repository and extract all the files to a folder. <br>
 Open a terminal in this folder and run the below command: <br>
 `
 python download.py
 `
 <br>
-This command would download a zip file to the data folder.
-Then:
-All the following steps involve running python notebooks. They can be run using **Run All** command in the respective IDE
+This command would download a zip file to the data folder.<br>
+Then:<br>
+All the following steps involve running python notebooks. They can be run using **Run All** command in the respective IDE<br>
 1. Run the file preprocessing.ipynb
      - This will extract the data from /data folder
      - It will extract all the required features from the datasets
