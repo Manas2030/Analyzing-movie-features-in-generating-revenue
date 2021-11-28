@@ -16,11 +16,11 @@ We used Kaggle’s [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-m
 Download the entire repository and extract all the files to a folder. 
 Open a terminal in this folder and run the below command: <br>
 `
-pip install googledrivedownloader 
 python download.py
 `
 This command would download a zip file to the data folder.
 Then:
+All the following steps involve running python notebooks. They can be run using **Run All** command in the respective IDE
 1. Run the file preprocessing.ipynb
      - This will extract the data from /data folder
      - It will extract all the required features from the datasets
