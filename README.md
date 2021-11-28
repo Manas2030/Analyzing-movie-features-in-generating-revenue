@@ -34,7 +34,7 @@ For any further queries feel free to reach out the following contributors.
 
 Ananya Singh (ananya19144@iiitd.ac.in) </br>
 Devika Mittal (devika19463@iiitd.ac.in) </br> 
-Manas Gupta (manas19308@iiitd.ac.in) </br>
+Manas Gupta (manas19368@iiitd.ac.in) </br>
 Prashasti Agarwal (prashasti19075@iiitd.ac.in) </br>
 
 ## Final Report 
