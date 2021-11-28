@@ -13,12 +13,16 @@ We used Kaggle’s [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-m
 
 
 ## Running the models
-All the python (.ipynb) notebooks are provided in the folder /notebooks
+Download the entire repository and extract all the files to a folder. 
+Open a terminal in this folder and run the below command:
+`python download.py`
+This command would download a zip file to the data folder.
+Then:
 1. Run the file preprocessing.ipynb
      - This will extract the data from /data folder
      - It will extract all the required features from the datasets
      - It will generate and process the features
-     - After all this processing final_data.csv is saved in /data folder and can be used for training and predictions.
+     - After all this processing preprocessed.csv is saved in /data folder and can be used for training and predictions.
 2. Run the file visualisations.ipynb
      - This helps in plotting of various features against revenue
      - This helps in estimation of the data
