@@ -3,7 +3,7 @@ by **Ananya Singh, Devika Mittal, Manas Gupta and Prashasti Agarwal** <br>
 **Machine Learning (CSE343, ECE343)** at **Indraprastha Institute of Information Technology, Delhi**. 
 
 ## Introduction 
-The aim of our project was to predict revenue of a movieand study how different parameters like genre, title, description  keywords,  run-time,  etc,  affect  its  success. Through several machine learning techniques, we have tried to verifyour preconceived notions about various factors which mightbe important in determining revenue. We have tried severalhyperparameter tuned models to finally reach the one thatbest models our data in predicting revenues.
+The aim of our project was to predict revenue of a movieand study how different parameters like genre, title, description  keywords,  run-time,  etc,  affect  its  success. Through several machine learning techniques, we have tried to verifyour preconceived notions about various factors which mightbe important in determining revenue. We have tried several hyperparameter tuned models to finally reach the one thatbest models our data in predicting revenues.
 
 ## Description and Implementation Details
 We used Kaggle’s [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset) for our analysis.This is a labelled dataset containing entries of about 45,000 movies listed at IMDB. We have used the following 3 of the 7 files in the dataset for our analysis:
