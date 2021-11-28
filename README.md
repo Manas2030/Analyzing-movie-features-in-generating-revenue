@@ -18,6 +18,7 @@ Open a terminal in this folder and run the below command: <br>
 `
 python download.py
 `
+<br>
 This command would download a zip file to the data folder.
 Then:
 All the following steps involve running python notebooks. They can be run using **Run All** command in the respective IDE
