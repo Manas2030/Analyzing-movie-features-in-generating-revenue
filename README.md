@@ -16,7 +16,7 @@ We used Kaggle’s [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-m
 Download the entire repository and extract all the files to a folder. 
 Open a terminal in this folder and run the below command: <br>
 `
-pip install googledrivedownloader <br>
+pip install googledrivedownloader 
 python download.py
 `
 This command would download a zip file to the data folder.
