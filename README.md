@@ -31,7 +31,7 @@ All the following steps involve running python notebooks. They can be run using 
      - This helps in plotting of various features against revenue
      - This helps in estimation of the data
      - It tells us the idstibution of data and determine which models might be useful.
-3. Run the file all_models.ipynb 
+3. Run the file ML_models.ipynb 
      - This notebook has been documented and commented and runs each model one by one
      - After each training a prediction is made on the testing set
      - R2 Score, RMSE are printed
